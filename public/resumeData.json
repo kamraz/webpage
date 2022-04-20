@@ -4,20 +4,20 @@
     "full_name": "Kamran Zolfonoon",
     "greeting": "Hi there",
     "occupation": "M.S. Computer Science student at the University of Massachusetts Amherst",
-    "description": "M.S. Computer Science student at the University of Massachusetts, Amherst. Graduating December 2022. Summer 2022 SWE Intern at PathAI.",
+    "description": "M.S. Computer Science student at the University of Massachusetts, Amherst. Summer 2022 SWE Intern at PathAI.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "Student by day, coder by night. When not busy working on a wide range of programming languages and platforms, I'm either spending time with my family, climbing, or finding the best cafe in my area. A quick learner who is always looking to stay up to date, I'm constantly tinkering with cutting edge developments across the field of C.S. from embedded systems to AI. In fact, GPT-3 wrote most of this paragraph (but it is published with my personal seal of approval).",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "me@kamran.ninja",
     "phone": "555-555-5555",
     "address": {
       "street": "(Your Street)",
       "city": "Boston",
-      "state": "(Your State)",
+      "state": "MA",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "www.google.com",
+    "resumedownload": "https://drive.google.com/file/d/1A9S76BCeyahHbbTtv-aXRziKl_WBGbJi/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
