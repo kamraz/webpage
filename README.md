@@ -9,7 +9,7 @@ Only deploy from main!
 npm run build
 firebase deploy
 ```
-
+photo creds: https://unsplash.com/photos/-IZ2sgQKIhM
 Old:
 resume socials:
       {
