@@ -14,6 +14,8 @@ class Header extends Component {
       })
     }
 
+    var introduction = "I'm Kamran"
+
     return (
       <header id="home">
 
@@ -32,7 +34,6 @@ class Header extends Component {
          </ul>
 
       </nav>
-
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline"><Typewriter
@@ -42,7 +43,7 @@ class Header extends Component {
                         .pauseFor(1500)
                         .deleteAll()
                         .pauseFor(1000)
-                        .typeString("I'm "+ name)
+                        .typeString(introduction)
                         .changeCursor(' ')
                         .pasteString(".")
                         .start();
