@@ -5,7 +5,7 @@ class Header extends Component {
   render() {
 
     if(this.props.data){
-      var first_name = this.props.data.first_name;
+      var name = this.props.data.name;
       var occupation= this.props.data.occupation;
       var description= this.props.data.description;
       var city= this.props.data.address.city;
@@ -42,7 +42,7 @@ class Header extends Component {
                         .pauseFor(1500)
                         .deleteAll()
                         .pauseFor(1000)
-                        .typeString("I'm "+ first_name)
+                        .typeString("I'm "+ name)
                         .changeCursor(' ')
                         .pasteString(".")
                         .start();

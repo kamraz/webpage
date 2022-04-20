@@ -1,7 +1,6 @@
 {
   "main": {
-    "first_name": "Kamran",
-    "name": "Kamran Zolfonoon",
+    "name": "Kamran",
     "greeting": "Hi there",
     "occupation": "M.S. Computer Science student at the University of Massachusetts Amherst",
     "description": "M.S. Computer Science student at the University of Massachusetts Amherst. SWE Intern at PathAI. Graduating December 2022",
