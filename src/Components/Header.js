@@ -50,7 +50,7 @@ class Header extends Component {
                   }}
                />
             </h1>
-            <h3><span> {description} </span>.</h3>
+            <h3><span> {description} </span></h3>
             <hr />
             <ul className="social">
                {networks}
