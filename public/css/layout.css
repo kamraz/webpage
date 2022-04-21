@@ -142,11 +142,13 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: rgba(255, 255, 255, 0.644);}
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none;
 background-color: #11ABB0; }
+/* hover color */
+#nav-wrap a:hover { color: #11ABB0; }
 
 ul#nav {
    min-height: 48px;
@@ -183,7 +185,8 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #11ABB0; }
+/* active link color */
+/* ul#nav li.current a { color: #11ABB0; } */
 
 
 /* ------------------------------------------------------------------ */
